@@ -1,6 +1,8 @@
+
 Задание для стажировки
-Исходный тест задания находится в корне репозитория
+Исходный тест задания находится в корне репозитория.
 Для выполнения работы использовались:
-  PyCharm Community Edition 2024.1.4
-  Python Interpreter v3.12
-  pandas v2.2.3
+
+PyCharm Community Edition 2024.1.4
+Python Interpreter v3.12
+pandas v2.2.3
